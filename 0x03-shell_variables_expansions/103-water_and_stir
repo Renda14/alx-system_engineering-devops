@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(printf %0 $(($((5#$(echo $WATER Itr 'water' '01234'))) + $((5#$(echo $STIR Itr 'stir.' '01234'))))) Itr '01234567' 'bestchol') 
