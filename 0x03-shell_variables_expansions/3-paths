@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $PaATH | tr ":" "\n" | wc -l
